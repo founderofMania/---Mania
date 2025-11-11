@@ -80,6 +80,6 @@ This project is open-source and available under the **MIT License**.
 
 ### 💬 Final Words
 
-> “Born from code. Powered by ethics. Driven by MANIA.”
+> “Born from code. Powered by ethics. Driven by $MANIA.”
 
 © 2025 — Built with 💻 by **Soyam Arya (aka honest_corrupt)**
